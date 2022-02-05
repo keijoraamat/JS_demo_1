@@ -4,8 +4,7 @@
   "description": "Webpack base stuff",
   "main": "index.js",
   "scripts": {
-    "dev": "npx webpack serve --mode development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx webpack serve --mode development"
   },
   "author": "kra",
   "license": "ISC",
